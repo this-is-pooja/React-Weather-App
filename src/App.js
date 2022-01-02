@@ -49,7 +49,7 @@ function App() {
           value={query}
           onKeyPress={search}
           style={{
-            height: "2.8rem", width: "100%", borderRadius: "8px 8px 8px 8px",
+            height: "2.8rem", width: "100%", borderRadius: "1rem",
             boxShadow: "0px 5px rgba(0,0,0,0.2)",
             backgroundColor: "rgba(255,255,255,0.7)", marginTop: "-55px", color: "#313131", fontSize: "20px", transition: "0.4s ease"
           }}
